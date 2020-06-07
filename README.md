@@ -29,3 +29,7 @@ Windows uses "\\" & Linux uses "//" for directory path
 1. filenames = os.listdir('C:\Users\kansh\Desktop\FYP\cats_dogs_cars\train\'
 
 2. filenames = os.listdir('cats_dogs_cars\train')
+
+# Understanding Conv2d & Max Pooling layers
+
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
